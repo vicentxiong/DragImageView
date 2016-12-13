@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/eshion/projects/em810w/packages/eshion_app/DragImageView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/you.jpg",
+        "source": "/home/eshion/projects/em810w/packages/eshion_app/DragImageView/app/src/main/res/drawable-hdpi/you.jpg"
+    },
+    {
+        "merged": "/home/eshion/projects/em810w/packages/eshion_app/DragImageView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/eshion/projects/em810w/packages/eshion_app/DragImageView/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eshion/projects/em810w/packages/eshion_app/DragImageView/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/huoying.jpg",
+        "source": "/home/eshion/projects/em810w/packages/eshion_app/DragImageView/app/src/main/res/drawable-hdpi/huoying.jpg"
+    }
+]

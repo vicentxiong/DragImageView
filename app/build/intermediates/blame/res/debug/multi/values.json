@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/eshion/projects/em810w/packages/eshion_app/DragImageView/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/home/eshion/projects/em810w/packages/eshion_app/DragImageView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 43,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 60,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/home/eshion/projects/em810w/packages/eshion_app/DragImageView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 60,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]
